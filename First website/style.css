@@ -1,0 +1,79 @@
+
+body{
+    background: url(images/banner-1176676__340.jpg)center fixed;
+    margin-bottom: 75px;
+    margin-left: 40px;
+}
+
+h1{
+    color: brown;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+h1, h2, h3, p, a, ol{
+    font-variant: small-caps;
+}
+p{
+    font-weight: bold;
+    font-size: 17px;
+}
+
+a{
+    font-size: 17px;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline
+}
+
+ol{
+    font-family: Arial, Helvetica, sans-serif
+}
+
+p, h2, h3, ol, span{
+    color :brown;
+}
+
+h2{
+    text-decoration: underline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+h3, input{
+    letter-spacing: .5px;
+}
+
+.q1{
+    color: navy
+}
+
+.q2{
+    color:green
+}
+
+.q3{
+    color:rebeccapurple
+}
+
+button{
+    background-color:brown;
+    color:peru;
+    border:2px solid black;
+    font-size: 20px;
+    padding: 10px 15px;
+    margin-right: 50px;
+}
+
+.button{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div{
+    background-color:rgba(205, 136, 57, 0.9);
+    padding: 20px 150px 100px;
+    width: 600px;
+    margin: auto;
+}
